@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, meu nome é Arthur Moraes!</h1>
 
-<h3 align="center">Atualmente, sou estudante de desenvolvimento web full-stack na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>.</h3>
+<h3 align="center">Programador Full-Stack focado em React e Node.js </h3>
 
 <br>
 
